@@ -1,0 +1,14 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "description": "QR Code component",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "author": "Haroon",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}
