@@ -55,7 +55,7 @@ body {
 }
 
 .container {
-  max-width: 144rem;
+  max-width: 100vw;
 }
 
 .attribution {
