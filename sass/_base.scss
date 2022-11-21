@@ -19,4 +19,6 @@ body {
   font-family: 'Outfit', sans-serif;
   font-weight: 400;
   background-color: $color-gray-light;
+  display: grid;
+  justify-content: center;
 }
